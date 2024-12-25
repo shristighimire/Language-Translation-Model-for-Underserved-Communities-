@@ -24,3 +24,34 @@ This project focuses on improving translation accuracy for underserved communiti
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Language-Translation-Model-for-Underserved-Communities.git
+
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Prepare Datasets:
+
+Ensure that the dataset files (nepali_data.csv, mongolian_data.csv, tigrinya_data.csv) are in the dataset/ folder.
+Fine-tune GPT-3:
+
+bash
+Copy code
+python src/model_training.py
+Evaluate the Model:
+
+bash
+Copy code
+python src/model_evaluation.py
+Real-time Translation:
+
+bash
+Copy code
+python src/inference.py
+Deploy on AWS SageMaker:
+
+bash
+Copy code
+python src/sagemaker_deployment.py
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
