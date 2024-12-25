@@ -1,4 +1,4 @@
-# Language Translation Model for Underserved Communities
+# Language Translation Model for Underresourced Languages
 
 ## Overview
 
