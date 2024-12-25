@@ -1,6 +1,5 @@
 # Language-Translation-Model-for-Underserved-Communities
-Language-Translation-Model-for-Underserved-Communities
-│
+
 ├── dataset
 │   ├── nepali_data.csv               # Dataset with Nepali translations
 │   ├── mongolian_data.csv            # Dataset with Mongolian translations
