@@ -1,4 +1,4 @@
-L# Language Translation Model for Underserved Communities
+# Language Translation Model for Underserved Communities
 
 ## Overview
 The **Language Translation Model for Underserved Communities** project aims to bridge communication gaps in underserved communities by developing an accurate translation system for **Nepali**, **Mongolian**, and **Tigrinya**. By fine-tuning **GPT-3**, this model enhances translation capabilities and makes it easier for individuals in these communities to access critical information in their native languages.
